@@ -1,1 +1,1 @@
-Hi southwest, mu url was invalid o the company site for some reason. This is my portolio url https://elated-cori-eae96b.netlify.app/
+Hi southwest, my URL was invalid on the company site for some reason. This is my portfolio url https://elated-cori-eae96b.netlify.app/
